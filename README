@@ -1,4 +1,4 @@
 This is an API for Baidu Translate and Google Translate
 Google's API is refer to https://github.com/mouuff/mtranslate
 Baidu's API is using Baidu Offical API, and I pack it to a Python Function
-
+The details description is post on my blog http://blog.csdn.net/haolexiao/article/details/54913740
